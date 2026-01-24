@@ -55,7 +55,7 @@
   },
   "dependencies": {
     "@types/lodash": "^4.17.0",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.23"
   },
   "devDependencies": {
     "@types/chai": "4.3.20",
